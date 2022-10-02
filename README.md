@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+| Hora        | Lunes                 | Martes                | Miercoles             | Jueves                | Viernes            |
+|-------------|-----------------------|-----------------------|-----------------------|-----------------------|--------------------|
+| 13:00-14:00 | Ing de software       | Ing de software       | Ing de software       | Ing de software       | Ing de software    |
+| 14:00-15:00 | Cultura empresarial   | Cultura empresarial   | Cultura empresarial   | Cultura empresarial   |                    |
+| 15:00-16:00 | Graficacion           | Graficacion           | Graficacion           | Graficacion           |                    |
+| 16:00-17:00 | Lenguajes de interfaz | Lenguajes de interfaz | Lenguajes de interfaz | Lenguajes de interfaz |                    |
+| 17:00-18:00 | Progra log y func     | Progra log y func     | Progra log y func     | Progra log y func     |                    |
+| 18:00-19:00 |                       |                       |                       |                       |                    |
+| 19:00-20:00 | Leng y automatas 2    | Leng y automatas 2    | Leng y automatas 2    | Leng y automatas 2    | Leng y automatas 2 |
