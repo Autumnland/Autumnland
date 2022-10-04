@@ -8,7 +8,7 @@ Este es mi perfil de estudiante.
 - Estoy aprendiendo a como utilizar esta plataforma
 
 
-<a href="http://cooltext.com" target="_top"><img src="https://p81.cooltext.com/Rendered/Cool%20Text%20-%20Este%20es%20mi%20horario%20420703045484599.png" width="250" height="150" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
+<a href="http://cooltext.com" target="_top"><img src="https://p81.cooltext.com/Rendered/Cool%20Text%20-%20Este%20es%20mi%20horario%20420703045484599.png" width="250" height="40" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
 
 | Hora        | Lunes                 | Martes                | Miercoles             | Jueves                | Viernes            |
 |-------------|-----------------------|-----------------------|-----------------------|-----------------------|--------------------|
