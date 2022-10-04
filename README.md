@@ -2,8 +2,12 @@
 
 ### Hola a todos 👋
 
+Este es mi perfil de estudiante.
 
-- Este es mi horario de clases:
+- Soy estudiante del instituto tecnologico de tijuana
+- Estoy aprendiendo a como utilizar esta plataforma
+
+Este es mi horario de clases:
 
 | Hora        | Lunes                 | Martes                | Miercoles             | Jueves                | Viernes            |
 |-------------|-----------------------|-----------------------|-----------------------|-----------------------|--------------------|
