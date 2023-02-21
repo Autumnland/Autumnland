@@ -1,4 +1,6 @@
-<a href="http://cooltext.com" target="_top"><img src="https://p81.cooltext.com/Rendered/Cool%20Text%20-%20Autumnland%20420625378743156.png" width="500" height="150" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
+![](https://images.cooltext.com/5508510.png) 
+
+<a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
 
 ### Hola a todos 👋
 
